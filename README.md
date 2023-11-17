@@ -1,1 +1,1 @@
-# challenge2
+The user wants a website that meets accessiblity standards in order to optimize their site for search engines. There is still alot that needs to be fixed.# challenge2
